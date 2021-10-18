@@ -1,0 +1,4 @@
+firman resolusi
+-konsisten untuk membuat konten 2x seminggu
+- membuat platform untuk pengelolaan video
+- menguasai Sql Server
